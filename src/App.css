@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.color-preview {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #000;
+  margin: 20px auto;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+}
